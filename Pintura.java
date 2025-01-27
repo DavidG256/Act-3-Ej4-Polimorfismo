@@ -1,5 +1,5 @@
 public class Pintura {
-    private double cobertura;
+    protected double cobertura;
 
 
     public Pintura(double cobertura) {
